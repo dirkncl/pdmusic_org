@@ -5,3 +5,6 @@ This experiment is only with general and simple JavaScript programs and only for
 
 Don't forget to set your browser chrome as follows:
 - "... yourChromePath / chrome.exe" --allow-file-access-from-files.
+
+
+[![Screenshot](https://dirkncl.github.io/pdmusic_org/pict/pdmusicHymn1.png)](https://dirkncl.github.io/pdmusic_org/hymns.html)
