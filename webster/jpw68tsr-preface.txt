@@ -1,3 +1,4 @@
+<center>
 [from "The Signet Ring"]
 
                          PREFACE.
@@ -32,3 +33,4 @@ A. B. Case, Music Printer, Chicago.
 
 [Chicago: Lyon & Healy, 116 Washington St.]
 
+</center>
