@@ -1,6 +1,10 @@
 
-Contemporary Commentary on Henry Clay Work
-  The following was written by  <a href="root-gf.html">George Frederick Root</a> (1820-1895) from his book The Story of a Musical Life, An Autobiography, published in Cincinnati by The John Church Co., in 1891, from Chapter XII, concerning events from 1861-1870, pages 137-138.
+<p><h2 align=center>Contemporary Commentary on Henry Clay Work</h2></p>
+<FONT FACE="Comic Sans MS">
+<p align=left>&nbsp;&nbsp;The following was written by <a href="root-gf.html">George Frederick Root</a> (1820-1895) from his book <b>The Story of a Musical Life,</b> An Autobiography, published in Cincinnati by The John Church Co., in 1891, from Chapter XII, concerning events from 1861-1870, pages 137-138.</p>
+</FONT>
+<BLOCKQUOTE>
+<FONT FACE="Courier">
 
   One day early in the war a quiet and rather solemn-look-
 ing young man, poorly clad, was sent up to my room from
@@ -37,7 +41,13 @@ were for exciting the patriotic feeling on going in to the war
 or the battle; "Marching Tho' Georgia" is a glorious re-
 membrance on coming triumphantly out, and so has been
 more appropriate to soldiers' and other gatherings ever since.
-The following is quoted from the 1884 publication of Songs of Henry Clay Work Compiled by Bertram G. Work, nephew of the author, and presented with his compliments.
+</FONT>
+</BLOCKQUOTE>
+<FONT FACE="Comic Sans MS">
+<p align=left>The following is quoted from the 1884 publication of <b>Songs of Henry Clay Work</b> Compiled by Bertram G. Work, nephew of the author, and presented with his compliments.
+</FONT>
+<BLOCKQUOTE>
+<FONT FACE="Courier">
 
 KNOW the songs of a country, and you
 will know its history for the true feeling
@@ -80,8 +90,9 @@ abolitionist voters in that town, he printed and sold anti-
 slavery publications. Alanson Work lived till 1879,
 long enough to see his anti-slavery dream realized, as
 well as the growing fame of his son.
-
-Webpage contents
-Copyright © 2000-2012 by <a href="mailto:brtubb@writme.com">Benjamin Robert Tubb</a>.
-Created on 29 January 2000.
-Last updated on 30 November 2012.
+</FONT>
+</BLOCKQUOTE>
+<p><h5 align=center>Webpage contents<br>
+Copyright &copy; 2000-2012 by <a href="mailto:brtubb@writme.com">Benjamin Robert Tubb</a>.<br>
+Created on 29 January 2000.<br>
+Last updated on 30 November 2012.</h5></p>
