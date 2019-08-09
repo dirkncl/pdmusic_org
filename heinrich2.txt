@@ -112,7 +112,7 @@ but more profitable operations in the money market.
 
 	
 Webpage contents are
-Copyright © 2001 by <a href="mailto:brtubb@writeme.com">Benjamin Robert Tubb</a> 
+Copyright &copy; 2001 by <a href="mailto:brtubb@writeme.com">Benjamin Robert Tubb</a> 
 or
 <a href="mailto:brtubb090530@cox.net">Benjamin Robert Tubb</a>.
 All Rights Reserved.
