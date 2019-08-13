@@ -51,7 +51,7 @@ document.write ('<option value=\"index.html\">== MISCELLANEOUS ==');
 //document.write ('<option value=\"tubb.html\">My Original Music');
 //document.write ('<option value=\"brtubb.html\">My Personal Webpages');
 //document.write ('<option value=\"pdmcds.html\">PD Music Sales Catalog');
-//document.write ('<option value=\"sources.html\">Online Sources Used');
+document.write ('<option value=\"sources.html\">Online Sources Used');
 //document.write ('<option value=\"portraits.html\">Portraits');
 //document.write ('<option value=\"links.html\">Recommended Links');
 document.write ('<option value=\"singing.html\">Songs Sung with Virtal Singer(s)');
