@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <title>Songs Sung by Virtual Singer(s)</title>
+    
+  </head>
+  <body bgcolor="#AACCFF">
+  <SCRIPT TYPE="text/javascript" LANGUAGE="javascript" SRC="pdmenu.js"></SCRIPT>
+  <NOSCRIPT><center><a href="index.html">Return to the PD Music Main Page.</a></center></NOSCRIPT>
+  <p><font size="+3">Songs Sung by Virtual Singer(s)</font></p>
+  <p><font size="+2"><span style="color:red">Not link here?... Wait! "read below"</span><br><span style="color:blue"></span><br><span id="time" style="color:red"></span></font></p>
+  <p width="640" align="left">With the convenience of using the Myrweb.html Java sctipted HTML format, users can now listen to digitized vocals thru their computer soundcard of any of the songs posted here after I suitably "recode" them into the ".MYR" file format using their <i>Harmony Assistant</i> program with its <i>Virtual Singer</i> program module. Although this process is very time consuming, I will continue to post more "singing" songs here when I can.</p>
+  <table align="center" border="0" cellspacing="0" cellpadding="4">
+    <tr><td>1. <a>20131202_DuetExposition</a></td></tr>
+    <tr><td>2. <a>Old Hayseed's Railroad Idea of Life</a></td></tr>
+    <tr><td>3. <a>110519-Forest_Path</a></td></tr>
+    <tr><td>4. <a>050620B (The Children of the Night)</a></td></tr>
+    <tr><td>5. <a>070110 (The Raven Days)</a></td></tr>
+    <tr><td>6. <a>I'll Love You Always (070102)</a></td></tr>
+    <tr><td>7. <a>060224-Tribute to Mozart</a></td></tr>
+    <tr><td>8. <a>Sonnet 73</a></td></tr>
+    <tr><td>9. <a>The Streets of Laredo</a></td></tr>
+    <tr><td>10. <a>Brahma (060803)</a></td></tr>
+    <tr><td>11. <a>Jolly Old Saint Nicholas</a></td></tr>
+    <tr><td>12. <a>Are You Lonesome Tonight (parody)</a></td></tr>
+    <tr><td>13. <a>Santa Claus</a></td></tr>
+    <tr><td>14. <a>Fair As The Morning</a></td></tr>
+    <tr><td>15. <a>Oh, Drink at the Fountain</a></td></tr>
+    <tr><td>16. <a>Very Early in the Morn</a></td></tr>
+    <tr><td>17. <a>At the Making of the Hay</a></td></tr>
+    <tr><td>18. <a>The Rocky-Mountain Boys</a></td></tr>
+    </table>
+    <p align="center"><font size="-2">Webpage contents &copy;2004-2018 by Benjamin Robert Tubb. All rights reserved.
+    <br>Created on 14 April 2004.
+    <br>Last updated on 22 December 2018.
+    <br>E-mail: brtubb@pdmusic.org</font></p>
+  <script>
+    var target="myriad/index.html";
+    var counter=30
+    var msg = `press anykey or double click this page or wait for ${counter} second`;
+    var tm = document.getElementById("time");
+    var prev = tm.parentNode.getElementsByTagName('span')[1];
+    prev.innerHTML=msg;
+    console.log(prev);
+    document.body.ondblclick = function(){
+      return window.location=target
+    }
+    document.body.onkeydown = function(){
+      return window.location=target
+    }
+    var maxSec = counter;
+    var counter=document.getElementById("time").textContent=maxSec+1;
+    function redirect(){
+      if (counter!==1){
+        counter-=1;
+        document.getElementById("time").textContent=counter;
+      }
+      else{
+        window.location=target;
+        return
+      };
+      setTimeout('redirect()',1000);
+    };
+    redirect();
+  </script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
