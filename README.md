@@ -1,5 +1,5 @@
 # pdmusic_org
-Experiment in with permission from the owner of http : // pdmusic.org (before 2020), Mr. Benjamin R. Tubb.
+Experiment in with permission from the owner of http : // pdmusic.org (before 2020), brtubb090530@cox.net Mr. Benjamin R. Tubb.
 
 This experiment is only with general and simple javascript programs.
 
